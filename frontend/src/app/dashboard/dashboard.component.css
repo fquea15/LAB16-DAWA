@@ -1,0 +1,8 @@
+#header{
+    position: fixed;
+    z-index: 1;
+}
+
+#main{
+    margin-top: 80px;
+}
